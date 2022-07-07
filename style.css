@@ -1,6 +1,7 @@
 body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
+    
 }
 .section1{
     margin-bottom: 100px;
@@ -126,6 +127,50 @@ body{
     background-color: rgba(250, 250, 210, 0.747);
     padding: 40px 20px;
 }
+.section5{
+    margin-bottom: 100px;
+}
+.section5-container{
+    display: flex;
+    width: 100%;
+}
+.section5-container1{
+    width: 50%;
+}
+.section5-container1 img{
+    width: 100%;
+}
+.section5-container2{
+    background-color: black;
+   
+}
+.section5-container2-part h1{
+    color: brown;
+    font-size: 30px;
+}
+.section5-container2 h2{
+    color: whitesmoke;
+}
+.section5-container2 p{
+    color: grey;
+    text-align: justify;
+    
+}
+.section5-container2-part{
+    width: 50%;
+    margin-top: 16%;
+    margin-left: 10%;
+}
+.section5-container2-part button{
+    padding: 10px 15px;
+    background-color: tomato;
+    border-radius: 20px;
+    color: whitesmoke;
+    font-size: 11px;
+    font-weight: 700;
+}
+
+
 .section4{
     margin-bottom: 100px;
 }
