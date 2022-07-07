@@ -2,3 +2,194 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
+.section1{
+    margin-bottom: 100px;
+}
+.header-part{
+    text-align: justify;
+    position: relative;
+    width: 100%;
+    
+}
+.header-part img{
+    width: 100%;
+    height: 500px;
+}
+.container{
+    color: whitesmoke;
+    width: 40%;
+    padding: 0 25%;
+    position: absolute;
+    top: 20%;
+    text-align: center;
+}
+.heading{
+    font-size: 40px;
+}
+
+.link-btn{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: whitesmoke;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.section2{
+    margin-bottom: 100px;
+}
+.donate{
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+} 
+.donate h2{
+    margin-left: 200px;
+    font-weight: 700;
+}
+.donate p{
+    color: grey;
+}
+.amount{
+    margin-left: 90px;
+    display: flex;
+    margin-bottom: 10px;
+}
+.amount h4{
+    margin: 5px ;
+    background-color: rgba(245, 245, 245, 0.575);
+    padding: 15px 10px;
+
+}
+.amount #second-child{
+    color: red;
+    border: 1px solid red;
+    background-color: rgba(255, 0, 0, 0.2);
+}
+.section2-input{
+    margin-left: 110px;
+    padding: 5px 40px 5px 100px;
+    border: 1px solid white;
+    border-bottom-color: grey;
+    font-weight: 200;
+    color: grey;
+    
+}
+.link-btn1{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: whitesmoke;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin-left: 215px;
+}
+.section3{
+    margin-bottom: 100px;
+}
+.donate-plan{
+    width: 30%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 30px;
+}
+.donate-plan h2{
+    margin-left: 190px;
+    font-weight: 700;
+}
+.donate-plan p{
+    color: grey;
+    text-align: center;
+}
+.donate-container{
+        display: flex;
+        width: 80%;
+        margin-left: 15%;
+        
+}
+.donate-container p{
+    color: grey;
+    text-align: justify;
+}
+.donate-container1{
+    width: 25%;
+    background-color: rgba(175, 238, 238, 0.658);
+    margin-right: 15px;
+    padding: 40px 20px;
+}
+.donate-container2{
+    width: 25%;
+    background-color: rgba(255, 192, 203, 0.747);
+    margin-right: 15px;
+    padding: 40px 20px;
+}
+.donate-container3{
+    width: 25%;
+    background-color: rgba(250, 250, 210, 0.747);
+    padding: 40px 20px;
+}
+.section4{
+    margin-bottom: 100px;
+}
+.update-container{
+    width: 30%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 30px;
+}
+.update-container h2{
+    margin-left: 190px;
+    font-weight: 700;
+}
+.update-container p{
+    color: grey;
+    text-align: center;
+}
+.update-container1{
+    display: flex;
+    width: 23%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 30px;
+    background-color: rgba(255, 228, 196, 0.849);
+    padding: 50px 70px;
+}
+.email{
+    margin-left: 70px;
+}
+.email input{
+    width: 200px;
+    padding: 5px;
+    background-color: rgba(119, 136, 153, 0.397);
+    color: cadetblue;
+    border: 1px solid rgba(119, 136, 153, 0.397);
+    margin-right: 0px;
+
+}
+.email button{
+    padding: 5px 20px;
+    background-color: tomato;
+    border: 1px solid tomato;
+    color: whitesmoke;
+    margin-left: 0px;
+}
+footer{
+    background-color: black;
+    
+    
+}
+.footer-part{
+   
+    text-align: center;
+    padding: 15px 0px;
+
+}
+.footer-part1{
+    margin-right: 250px;
+}
+.footer-part h3{
+    color: brown;
+    font-style: italic;
+} 
+.footer-part p{
+    color: grey;
+    font-size: 10px;
+}
