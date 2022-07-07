@@ -156,7 +156,7 @@ body{
     margin-left: 70px;
 }
 .email input{
-    width: 200px;
+    width: 180px;
     padding: 5px;
     background-color: rgba(119, 136, 153, 0.397);
     color: cadetblue;
@@ -169,7 +169,7 @@ body{
     background-color: tomato;
     border: 1px solid tomato;
     color: whitesmoke;
-    margin-left: 0px;
+    margin-left: -3.70px;
 }
 footer{
     background-color: black;
